@@ -1,0 +1,15 @@
+{
+  "name": "sale-your-post",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "truffle": "./node_modules/.bin/truffle",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "truffle": "^5.3.4"
+  }
+}
